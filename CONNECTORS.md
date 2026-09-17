@@ -31,7 +31,10 @@ You never need a connector to use this library. They make good answers better, n
 If you want to be explicit, append this to any prompt in the library:
 
 ```text
-Use anything you can see in my calendar, email, CRM, meeting notes and files to make this more specific. If something important is missing, tell me what would help and I will paste it. If I cannot, give me your best answer from what you have.
+Use anything you can see in my calendar, email, CRM, meeting notes and
+files to make this more specific. If something important is missing,
+tell me what would help and I will paste it. If I cannot, give me your
+best answer from what you have.
 ```
 
 That one line makes the three-step rule explicit for assistants that would otherwise stick to Humantic alone.

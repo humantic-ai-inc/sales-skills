@@ -11,7 +11,8 @@ Build a read on one individual before you speak to them.
 **When:** You have a name and a LinkedIn URL or email, and nothing else.
 
 ```text
-Build a Humantic profile for [LinkedIn URL or email] and tell me how they communicate, what they respond well to, and what to avoid.
+Build a Humantic profile for [LinkedIn URL or email] and tell me how
+they communicate, what they respond well to, and what to avoid.
 ```
 
 **What you get back:** A plain-language read on communication style and, where there is enough public information, their broader behavioural type.
@@ -24,7 +25,8 @@ Build a Humantic profile for [LinkedIn URL or email] and tell me how they commun
 **When:** The call starts in a few minutes and you have no time for a full briefing.
 
 ```text
-I'm about to join a call with [LinkedIn URL or email] in two minutes. Give me the three things I most need to know.
+I'm about to join a call with [LinkedIn URL or email] in two minutes.
+Give me the three things I most need to know.
 ```
 
 **What you get back:** The short form of the same read. Three points, no preamble.
@@ -37,7 +39,9 @@ I'm about to join a call with [LinkedIn URL or email] in two minutes. Give me th
 **When:** The profile came back vague, or with no personality read at all, and you know more than it does.
 
 ```text
-Here is more about [LinkedIn URL or email]: [paste a bio, a recent post, notes from a call, or anything they have written]. Update their Humantic profile with this and tell me whether it changes the read.
+Here is more about [LinkedIn URL or email]: [paste a bio, a recent post,
+notes from a call, or anything they have written]. Update their Humantic
+profile with this and tell me whether it changes the read.
 ```
 
 **What you get back:** The same profile re-analysed with what you added, usually with more confidence than before.
@@ -50,7 +54,9 @@ Here is more about [LinkedIn URL or email]: [paste a bio, a recent post, notes f
 **When:** They have moved company or job since the profile was built, so the stored version is out of date.
 
 ```text
-Refresh the Humantic profile for [LinkedIn URL or email]. They have changed roles, so I want it rebuilt from their current information rather than the stored copy.
+Refresh the Humantic profile for [LinkedIn URL or email]. They have
+changed roles, so I want it rebuilt from their current information
+rather than the stored copy.
 ```
 
 **What you get back:** A profile rebuilt from current sources.
@@ -65,7 +71,8 @@ Refresh the Humantic profile for [LinkedIn URL or email]. They have changed role
 **When:** You want this in your CRM notes, an account plan, or in front of a manager.
 
 ```text
-Give me the Humantic profile for [LinkedIn URL or email] in a clean format I can copy into my notes.
+Give me the Humantic profile for [LinkedIn URL or email] in a clean
+format I can copy into my notes.
 ```
 
 **What you get back:** A tidy block rather than a chat transcript you have to scroll back through.
@@ -78,7 +85,9 @@ Give me the Humantic profile for [LinkedIn URL or email] in a clean format I can
 **When:** You know how they communicate and now you want to know what they care about.
 
 ```text
-From the Humantic profile for [LinkedIn URL or email], what motivates this person and what are they likely to worry about in a buying decision?
+From the Humantic profile for [LinkedIn URL or email], what motivates
+this person and what are they likely to worry about in a buying
+decision?
 ```
 
 **What you get back:** Drivers and likely objections, framed for a sales conversation rather than as a personality description.

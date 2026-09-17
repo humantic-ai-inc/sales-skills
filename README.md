@@ -4,6 +4,8 @@ Prompts for sellers using Humantic AI through an AI assistant. Built for **Micro
 
 Every prompt here is written to be pasted as-is. Swap in the bracketed detail and send. No prompt asks you to know a tool name, a parameter, or what DISC stands for.
 
+Each prompt sits in a grey box. Hover over the box and a **copy button** appears in its top-right corner: click it, paste into your assistant, then replace anything in [square brackets] with the real name or company. The line breaks you see in the box do not matter, paste them as they are.
+
 **New here? Start with [SETUP.md](SETUP.md)** to connect Humantic to your assistant, then come back to the index below.
 
 ## How to use these

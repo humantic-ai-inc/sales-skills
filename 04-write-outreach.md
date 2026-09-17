@@ -11,7 +11,9 @@ Messages matched to the person receiving them, not to a template.
 **When:** Cold outreach, and you want it to land rather than look like a sequence.
 
 ```text
-Write me a first-pitch email to [LinkedIn URL or email]. Here is the pain point I am leading with: [a sentence or two]. Here is who I am and why I am reaching out: [a sentence or two about you and your company].
+Write me a first-pitch email to [LinkedIn URL or email]. Here is the
+pain point I am leading with: [a sentence or two]. Here is who I am and
+why I am reaching out: [a sentence or two about you and your company].
 ```
 
 **What you get back:** A cold email matched to how that person tends to respond.
@@ -26,7 +28,8 @@ Write me a first-pitch email to [LinkedIn URL or email]. Here is the pain point 
 **When:** You have already written it and want it to fit the person.
 
 ```text
-Rewrite this email for [LinkedIn URL or email] so it matches how they respond to messages: [paste your draft].
+Rewrite this email for [LinkedIn URL or email] so it matches how they
+respond to messages: [paste your draft].
 ```
 
 **What you get back:** Your message, restyled for that reader.
@@ -41,7 +44,9 @@ Rewrite this email for [LinkedIn URL or email] so it matches how they respond to
 **Better with:** Email, so you do not have to paste the thread. See prompt 48.
 
 ```text
-Here is the thread so far with [LinkedIn URL or email]: [paste the earlier message and their reply]. Write me a reply that fits how they communicate.
+Here is the thread so far with [LinkedIn URL or email]: [paste the
+earlier message and their reply]. Write me a reply that fits how they
+communicate.
 ```
 
 **What you get back:** A reply written in the context of the thread.
@@ -54,7 +59,8 @@ Here is the thread so far with [LinkedIn URL or email]: [paste the earlier messa
 **When:** They went quiet and a generic nudge will not move it.
 
 ```text
-Write a follow-up to [LinkedIn URL or email]. Here is the last message I sent: [paste it].
+Write a follow-up to [LinkedIn URL or email]. Here is the last message I
+sent: [paste it].
 ```
 
 **What you get back:** A follow-up built on the actual thread, matched to the person.
@@ -67,7 +73,12 @@ Write a follow-up to [LinkedIn URL or email]. Here is the last message I sent: [
 **When:** Multi-threading a deal and you want one message underneath, three deliveries.
 
 ```text
-I'm reaching out to three people on the [company] deal together: [Name 1 - role - LinkedIn URL or email] is the economic buyer, [Name 2 - role - LinkedIn URL or email] is the technical evaluator, [Name 3 - role - LinkedIn URL or email] is my champion. Write me a first email to each, all built around this: [the pain point or value prop], but matched to how each of them communicates.
+I'm reaching out to three people on the [company] deal together: [Name
+1, role, LinkedIn URL or email] is the economic buyer, [Name 2, role,
+LinkedIn URL or email] is the technical evaluator, [Name 3, role,
+LinkedIn URL or email] is my champion. Write me a first email to each,
+all built around this: [the pain point or value prop], but matched to
+how each of them communicates.
 ```
 
 **What you get back:** Three emails with one consistent message underneath, each written for its reader.
@@ -80,7 +91,8 @@ I'm reaching out to three people on the [company] deal together: [Name 1 - role 
 **When:** One version landed well and you want the same substance for someone else on the deal.
 
 ```text
-Here's a draft I wrote for [Name 1]: [paste it]. Rewrite it for [Name 2] on the same deal, matched to how they communicate.
+Here's a draft I wrote for [Name 1]: [paste it]. Rewrite it for [Name 2]
+on the same deal, matched to how they communicate.
 ```
 
 **What you get back:** The same core message, restyled. Saves starting from blank for every stakeholder.
@@ -95,7 +107,9 @@ Here's a draft I wrote for [Name 1]: [paste it]. Rewrite it for [Name 2] on the 
 **Better with:** A meeting notetaker, so each note references what that person actually said.
 
 ```text
-We just met with [Name 1], [Name 2] and [Name 3] from [company]. Write a short follow-up note to each of them, same key takeaway, matched to how they communicate.
+We just met with [Name 1], [Name 2] and [Name 3] from [company]. Write a
+short follow-up note to each of them, same key takeaway, matched to how
+they communicate.
 ```
 
 **What you get back:** Separate short notes rather than one broadcast.

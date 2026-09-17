@@ -15,7 +15,12 @@ Several stakeholders, different roles, one deal.
 **Better with:** CRM, for who actually holds which role. Meeting notes, for who has pushed back on what.
 
 ```text
-Build Humantic profiles for these people on the [company] deal: [Name 1 - role - LinkedIn URL or email], [Name 2 - role - LinkedIn URL or email], [Name 3 - role - LinkedIn URL or email]. For each, tell me how they communicate and what they respond well to. Then tell me where they are likely to agree, where they might clash, and who I should lean on to build support internally.
+Build Humantic profiles for these people on the [company] deal: [Name 1,
+role, LinkedIn URL or email], [Name 2, role, LinkedIn URL or email],
+[Name 3, role, LinkedIn URL or email]. For each, tell me how they
+communicate and what they respond well to. Then tell me where they are
+likely to agree, where they might clash, and who I should lean on to
+build support internally.
 ```
 
 **What you get back:** A read on the committee as a group: friction points, and a starting view on who could become your champion.
@@ -28,7 +33,9 @@ Build Humantic profiles for these people on the [company] deal: [Name 1 - role -
 **When:** You have limited time and need to know who to work first.
 
 ```text
-Between [Name 1] and [Name 2] on the [company] deal, based on their Humantic profiles, who is likely to move faster and who needs more convincing?
+Between [Name 1] and [Name 2] on the [company] deal, based on their
+Humantic profiles, who is likely to move faster and who needs more
+convincing?
 ```
 
 **What you get back:** A direct comparison to help you sequence.
@@ -41,7 +48,8 @@ Between [Name 1] and [Name 2] on the [company] deal, based on their Humantic pro
 **When:** Three or more people, and the order matters.
 
 ```text
-Given this committee on the [company] deal: [Name 1 - role], [Name 2 - role], [Name 3 - role], who should I talk to first, and why?
+Given this committee on the [company] deal: [Name 1, role], [Name 2,
+role], [Name 3, role], who should I talk to first, and why?
 ```
 
 **What you get back:** A suggested sequence, based on how each is likely to respond and who tends to influence others.
@@ -54,7 +62,9 @@ Given this committee on the [company] deal: [Name 1 - role], [Name 2 - role], [N
 **When:** One person is pushing back and the generic objection-handling script is not landing.
 
 ```text
-[Name] on the [company] deal seems skeptical. Based on their Humantic profile, how should I approach them differently from the rest of the committee?
+[Name] on the [company] deal seems skeptical. Based on their Humantic
+profile, how should I approach them differently from the rest of the
+committee?
 ```
 
 **What you get back:** An angle specific to that person.
@@ -67,7 +77,9 @@ Given this committee on the [company] deal: [Name 1 - role], [Name 2 - role], [N
 **When:** You need someone inside the account to carry this when you are not in the room.
 
 ```text
-Across the committee on the [company] deal, based on their Humantic profiles, who is most likely to advocate for a change like this internally, and how should I equip them?
+Across the committee on the [company] deal, based on their Humantic
+profiles, who is most likely to advocate for a change like this
+internally, and how should I equip them?
 ```
 
 **What you get back:** A candidate champion and what that person would need from you.
@@ -80,7 +92,10 @@ Across the committee on the [company] deal, based on their Humantic profiles, wh
 **When:** You are presenting to people who want different things.
 
 ```text
-I'm presenting to [Name 1], [Name 2] and [Name 3] from [company] together. Based on their Humantic profiles, where will they pull in different directions, and how do I structure the meeting so each of them gets what they need?
+I'm presenting to [Name 1], [Name 2] and [Name 3] from [company]
+together. Based on their Humantic profiles, where will they pull in
+different directions, and how do I structure the meeting so each of them
+gets what they need?
 ```
 
 **What you get back:** The likely fault lines and a structure that accounts for them.

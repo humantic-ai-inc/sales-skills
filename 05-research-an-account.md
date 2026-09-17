@@ -26,7 +26,8 @@ Do we already have Humantic research on [company name]?
 **When:** Nothing exists and you are going into this company.
 
 ```text
-Start a Humantic account report on [company name]. Once it's ready, give me the short summary.
+Start a Humantic account report on [company name]. Once it's ready, give
+me the short summary.
 ```
 
 **What you get back:** An account-level read covering ground that would otherwise take an hour.
@@ -41,7 +42,8 @@ Start a Humantic account report on [company name]. Once it's ready, give me the 
 **When:** You want the headline, not the whole document.
 
 ```text
-Give me the executive summary from the Humantic report on [company name].
+Give me the executive summary from the Humantic report on [company
+name].
 ```
 
 **What you get back:** The short-form section only.
@@ -54,7 +56,8 @@ Give me the executive summary from the Humantic report on [company name].
 **When:** You want to know who runs this company and how they think.
 
 ```text
-From the Humantic report on [company name], what does it say about their leadership?
+From the Humantic report on [company name], what does it say about their
+leadership?
 ```
 
 **What you get back:** That section alone.
@@ -67,7 +70,8 @@ From the Humantic report on [company name], what does it say about their leaders
 **When:** You want to know what your proposal will be judged against.
 
 ```text
-From the Humantic report on [company name], how do they typically evaluate a vendor like us?
+From the Humantic report on [company name], how do they typically
+evaluate a vendor like us?
 ```
 
 **What you get back:** The evaluation angle, pulled on its own.
@@ -80,7 +84,8 @@ From the Humantic report on [company name], how do they typically evaluate a ven
 **When:** You want to know who else is likely in the room.
 
 ```text
-From the Humantic report on [company name], what does it say about their current vendors and the competitive landscape?
+From the Humantic report on [company name], what does it say about their
+current vendors and the competitive landscape?
 ```
 
 **What you get back:** The competitive section.
@@ -93,7 +98,8 @@ From the Humantic report on [company name], what does it say about their current
 **When:** The report is months old and the account has moved on.
 
 ```text
-Regenerate the Humantic report on [company name], this one is out of date.
+Regenerate the Humantic report on [company name], this one is out of
+date.
 ```
 
 **What you get back:** A fresh report. The original stays available if you want to compare.
