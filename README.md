@@ -6,6 +6,24 @@ Every prompt here is written to be pasted as-is. Swap in the bracketed detail an
 
 Each prompt sits in a grey box. Hover over the box and a **copy button** appears in its top-right corner: click it, paste into your assistant, then replace anything in [square brackets] with the real name or company. The line breaks you see in the box do not matter, paste them as they are.
 
+## Skills
+
+Seven installable skills that turn the prompts below into complete workflows. You ask in your own words, for example "prep me for my meeting with Acme tomorrow", and the matching skill takes over.
+
+| Skill | What it does |
+| :--- | :--- |
+| [buyer-read](skills/buyer-read/) | How one person communicates, what drives them, and how to approach them |
+| [meeting-prep](skills/meeting-prep/) | A one-page brief built around what the meeting has to produce |
+| [pursuit-plan](skills/pursuit-plan/) | A plan for winning one named account |
+| [prospecting](skills/prospecting/) | Who to work this week, with a reason attached to every name |
+| [sales-email](skills/sales-email/) | Emails matched to the person reading them |
+| [buying-committee](skills/buying-committee/) | Maps the people who decide and how to move them as a group |
+| [expansion-play](skills/expansion-play/) | What an existing customer should buy next, and when to ask |
+
+**Install in Claude:** add this repo as a plugin marketplace, or upload any skill folder under Settings, Skills. **ChatGPT and Microsoft Copilot:** upload the skill folders as skills, or see the admin guide from your Humantic contact.
+
+## Prompts
+
 **New here? Start with [SETUP.md](SETUP.md)** to connect Humantic to your assistant, then come back to the index below.
 
 ## How to use these

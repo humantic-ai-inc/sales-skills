@@ -1,0 +1,15 @@
+{
+  "name": "humantic-ai",
+  "owner": { "name": "Humantic AI" },
+  "metadata": {
+    "description": "Sales skills from Humantic AI for sellers using an AI assistant."
+  },
+  "plugins": [
+    {
+      "name": "humantic-sales-skills",
+      "source": "./",
+      "description": "Seven sales skills that use Humantic AI's personality and account intelligence: buyer read, meeting prep, pursuit plan, prospecting, sales email, buying committee and expansion play.",
+      "version": "0.1.0"
+    }
+  ]
+}
